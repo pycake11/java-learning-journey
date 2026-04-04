@@ -10,6 +10,11 @@ This repository contains my Java programming practice.
 * Login System
 * Age Permission Program
 * Online Shopping Discount
+* Even/Odd Number checker
+* Password Login System
+* Number Guessing Game
+* Studet Pass/Fail System
+* ATM Balance Check
 
 ## Tools
 
