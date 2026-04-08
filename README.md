@@ -20,6 +20,11 @@ This repository contains my Java programming practice.
 * Number Sum Program with do while
 * Password Check with do while
 * Even Number Counter with do while
+* Even Odd Checker with for loop
+* Multiplication Table Filtering with for loop
+* Number Sum (Even Only ) with for loop
+* Pass Fail Counter with for loop
+* Number Pattern (Even only ) with for loop
 
 ## Tools
 
